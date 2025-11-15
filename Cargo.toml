@@ -10,7 +10,7 @@ license = "BSD-2-Clause"
 
 [features]
 gpu = ["ocl"]
-default = ["gpu"]
+default = ["gpu", "apple"]
 apple = []
 
 [dependencies]
